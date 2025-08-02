@@ -5,6 +5,7 @@
 Welcome to CineMatch, a **content-based movie recommendation system** I built as part of my machine learning journey during Seasons of Code 2025.
 
 This project wasn't just about building a working system—it was about **learning by doing**. From understanding movie metadata and performing feature extraction to deploying a real-time ML model, this repository showcases everything I explored to make this project possible.
+
 ---
 ## 🔍 Why This Project?
 
