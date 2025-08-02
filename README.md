@@ -30,7 +30,7 @@ This project was a deep dive into the machine learning lifecycle. Here's a look 
   * Integrating third-party APIs (TMDB).
   * Deploying ML apps using **Streamlit** & **Render**.
 
-\<br\>
+---
 
 ## 📁 Repository Structure
 
@@ -44,7 +44,7 @@ This project was a deep dive into the machine learning lifecycle. Here's a look 
 | `requirements.txt`  | All dependencies required to run the project.                |
 | `README.md`         | The document you're reading now.                             |
 
-\<br\>
+---
 
 ## 🎬 How It Works: From Metadata to Movie Magic
 
@@ -115,7 +115,7 @@ The result? You input a movie, and the app instantly provides five similar movie
   * **IDE:** PyCharm
   * **Dataset:** TMDB 5000 Movie Dataset
 
-\<br\>
+---
 
 ## 🎯 Key Takeaways
 
