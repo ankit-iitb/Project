@@ -98,7 +98,7 @@ The result? You input a movie, and the app instantly provides five similar movie
 
 ## 🔗 Live App & GitHub Repo
 
-  * **Live App:** [get-movies-sdm1.onrender.com](https://www.google.com/search?q=https://get-movies-sdm1.onrender.com)
+  * **Live App:** [get-movies-sdm1.onrender.com](https://get-movies-dvzv.onrender.com)
   * **GitHub Repo:** [CineMatch - Movie Recommender](https://www.google.com/search?q=https://github.com/your-username/cinematch)
 
 -----
