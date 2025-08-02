@@ -1,26 +1,18 @@
 # CineMatch: Your Personal Movie Recommendation Engine
 
-\<br\>
-
-\<p align="center"\>
-\<img src="[https://example.com/cinematch-logo.png](https://www.google.com/search?q=https://example.com/cinematch-logo.png)" alt="CineMatch Logo" width="200"/\>
-\</p\>
-
 ## 👋 Introduction
 
 Welcome to CineMatch, a **content-based movie recommendation system** I built as part of my machine learning journey during Seasons of Code 2025.
 
 This project wasn't just about building a working system—it was about **learning by doing**. From understanding movie metadata and performing feature extraction to deploying a real-time ML model, this repository showcases everything I explored to make this project possible.
-
-\<br\>
-
+---
 ## 🔍 Why This Project?
 
 We've all been there: scrolling endlessly, trying to figure out what to watch next. I thought, "Why not build my own movie recommender that suggests similar titles based on your favorites?"
 
 Instead of relying on ratings or user behavior, I opted for a **content-based filtering approach**. It's like training a bot that has read all the movie plots and learned about the key actors and directors, then gives you personalized suggestions based on the movie's "DNA"\!
 
-\<br\>
+---
 
 ## 🧠 What I Learned
 
